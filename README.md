@@ -10,5 +10,7 @@ This template should help get you started developing with Tauri, React and Types
 ## running application
 ```sh
 npm install
-npm run tauri dev
+npm run tauri dev # for dev env
+
+npm run tauri build # to create standalone build
 ```
